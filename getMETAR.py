@@ -49,7 +49,7 @@ def archiveMETARs():
     root = doc.getroot()
     for child in root:
         dromeID = child[0].text
-        date = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
+        date = datetime.datetime.utcnow().strftime("%Y-%m-%d %H-%M-%S")
         fixed_date = str(date).replace(' ', '_')
         filename = str.join('_', (dromeID, fixed_date))
         #print (combined)
