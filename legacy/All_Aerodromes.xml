@@ -1,0 +1,2022 @@
+<Aerodromes>
+  <Aerodrome>
+    <ID>CYAC</ID>
+    <Name>Cat Lake Airport</Name>
+    <Location>Cat Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAD</ID>
+    <Name>La Grande-3 Airport</Name>
+    <Location>La Grande-3 generating station, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAG</ID>
+    <Name>Fort Frances Municipal Airport</Name>
+    <Location>Fort Frances, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAH</ID>
+    <Name>La Grande-4 Airport</Name>
+    <Location>La Grande-4 generating station, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAL</ID>
+    <Name>Alert Bay Airport</Name>
+    <Location>Alert Bay, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAM</ID>
+    <Name>Sault Ste. Marie Airport</Name>
+    <Location>Sault Ste. Marie, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAQ</ID>
+    <Name>Kasabonika Airport</Name>
+    <Location>Kasabonika, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAS</ID>
+    <Name>Kangirsuk Airport</Name>
+    <Location>Kangirsuk, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAT</ID>
+    <Name>Attawapiskat Airport</Name>
+    <Location>Attawapiskat, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAU</ID>
+    <Name>Liverpool/South Shore Regional Airport</Name>
+    <Location>Liverpool, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAV</ID>
+    <Name>Winnipeg/St. Andrews Airport</Name>
+    <Location>St. Andrews, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAW</ID>
+    <Name>CFB Shearwater (Halifax/Shearwater Airport)</Name>
+    <Location>Shearwater, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAX</ID>
+    <Name>Lac du Bonnet Airport</Name>
+    <Location>Lac du Bonnet, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAY</ID>
+    <Name>St. Anthony Airport</Name>
+    <Location>St. Anthony, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYAZ</ID>
+    <Name>Tofino/Long Beach Airport</Name>
+    <Location>Tofino, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBA</ID>
+    <Name>Banff Airport</Name>
+    <Location>Banff, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBB</ID>
+    <Name>Kugaaruk Airport</Name>
+    <Location>Kugaaruk, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBC</ID>
+    <Name>Baie-Comeau Airport</Name>
+    <Location>Baie-Comeau, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBD</ID>
+    <Name>Bella Coola Airport</Name>
+    <Location>Bella Coola, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBE</ID>
+    <Name>Uranium City Airport</Name>
+    <Location>Uranium City, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBF</ID>
+    <Name>Bonnyville Airport</Name>
+    <Location>Bonnyville, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBG</ID>
+    <Name>CFB Bagotville (Bagotville Airport)</Name>
+    <Location>Bagotville, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBK</ID>
+    <Name>Baker Lake Airport</Name>
+    <Location>Baker Lake, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBL</ID>
+    <Name>Campbell River Airport</Name>
+    <Location>Campbell River, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBN</ID>
+    <Name>Borden Heliport (CFB Borden)</Name>
+    <Location>Borden, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBP</ID>
+    <Name>Brooks Regional Aerodrome</Name>
+    <Location>Brooks, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBQ</ID>
+    <Name>Tadoule Lake Airport</Name>
+    <Location>Tadoule Lake, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBR</ID>
+    <Name>Brandon Municipal Airport (McGill Field)</Name>
+    <Location>Brandon, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBT</ID>
+    <Name>Brochet Airport</Name>
+    <Location>Brochet, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBU</ID>
+    <Name>Nipawin Airport</Name>
+    <Location>Nipawin, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBV</ID>
+    <Name>Berens River Airport</Name>
+    <Location>Berens River, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBW</ID>
+    <Name>Calgary/Springbank Airport (Springbank Airport)</Name>
+    <Location>Calgary, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYBX</ID>
+    <Name>Lourdes-de-Blanc-Sablon Airport</Name>
+    <Location>Blanc-Sablon, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCA</ID>
+    <Name>Cartwright Airport</Name>
+    <Location>Cartwright, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCB</ID>
+    <Name>Cambridge Bay Airport</Name>
+    <Location>Cambridge Bay, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCC</ID>
+    <Name>Cornwall Regional Airport</Name>
+    <Location>Cornwall, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCD</ID>
+    <Name>Nanaimo Airport</Name>
+    <Location>Nanaimo, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCE</ID>
+    <Name>Centralia/James T. Field Memorial Aerodrome</Name>
+    <Location>Centralia, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCG</ID>
+    <Name>West Kootenay Regional Airport (Castlegar Airport)</Name>
+    <Location>Castlegar, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCH</ID>
+    <Name>Miramichi Airport</Name>
+    <Location>Miramichi, New Brunswick</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCK</ID>
+    <Name>Chatham-Kent Airport</Name>
+    <Location>Chatham-Kent, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCL</ID>
+    <Name>Charlo Airport</Name>
+    <Location>Charlo, New Brunswick</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCN</ID>
+    <Name>Cochrane Airport</Name>
+    <Location>Cochrane, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCO</ID>
+    <Name>Kugluktuk Airport</Name>
+    <Location>Kugluktuk, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCP</ID>
+    <Name>Blue River Airport</Name>
+    <Location>Blue River, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCQ</ID>
+    <Name>Chetwynd Airport</Name>
+    <Location>Chetwynd, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCR</ID>
+    <Name>Cross Lake (Charlie Sinclair Memorial) Airport</Name>
+    <Location>Cross Lake, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCS</ID>
+    <Name>Chesterfield Inlet Airport</Name>
+    <Location>Chesterfield Inlet, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCT</ID>
+    <Name>Coronation Airport</Name>
+    <Location>Coronation, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCW</ID>
+    <Name>Chilliwack Airport</Name>
+    <Location>Chilliwack, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCX</ID>
+    <Name>Gagetown Heliport (CFB Gagetown)</Name>
+    <Location>Oromocto, New Brunswick</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCY</ID>
+    <Name>Clyde River Airport</Name>
+    <Location>Clyde River, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYCZ</ID>
+    <Name>Fairmont Hot Springs Airport</Name>
+    <Location>Fairmont Hot Springs, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDA</ID>
+    <Name>Dawson City Airport</Name>
+    <Location>Dawson City, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDB</ID>
+    <Name>Burwash Airport</Name>
+    <Location>Burwash Landing, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDC</ID>
+    <Name>Princeton Aerodrome</Name>
+    <Location>Princeton, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDF</ID>
+    <Name>Deer Lake Regional Airport</Name>
+    <Location>Deer Lake, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDH</ID>
+    <Name>Ottawa/Dwyer Hill Heliport</Name>
+    <Location>Ottawa, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDL</ID>
+    <Name>Dease Lake Airport</Name>
+    <Location>Dease Lake, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDM</ID>
+    <Name>Ross River Airport</Name>
+    <Location>Ross River, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDN</ID>
+    <Name>Lt. Col W.G. (Billy) Barker VC Airport (Dauphin (Lt. Col W.G. (Billy) Barker VC Airport))</Name>
+    <Location>Dauphin, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDO</ID>
+    <Name>Dolbeau-Saint-F&#233;licien Airport</Name>
+    <Location>Dolbeau-Mistassini, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDP</ID>
+    <Name>Nain Airport</Name>
+    <Location>Nain, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYDQ</ID>
+    <Name>Dawson Creek Airport</Name>
+    <Location>Dawson Creek, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEA</ID>
+    <Name>Empress Airport</Name>
+    <Location>Empress, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYED</ID>
+    <Name>Edmonton/Namao Heliport (CFB Edmonton)</Name>
+    <Location>Edmonton, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEE</ID>
+    <Name>Midland/Huronia Airport</Name>
+    <Location>Midland, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEG</ID>
+    <Name>Edmonton International Airport</Name>
+    <Location>Nisku, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEK</ID>
+    <Name>Arviat Airport</Name>
+    <Location>Arviat, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEL</ID>
+    <Name>Elliot Lake Municipal Airport</Name>
+    <Location>Elliot Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEM</ID>
+    <Name>Manitowaning/Manitoulin East Municipal Airport</Name>
+    <Location>Manitowaning, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEN</ID>
+    <Name>Estevan Regional Aerodrome</Name>
+    <Location>Estevan, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYER</ID>
+    <Name>Fort Severn Airport</Name>
+    <Location>Fort Severn, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYES</ID>
+    <Name>Edmundston Airport</Name>
+    <Location>Edmundston, New Brunswick</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYET</ID>
+    <Name>Edson Airport</Name>
+    <Location>Edson, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEU</ID>
+    <Name>Eureka Aerodrome</Name>
+    <Location>Eureka, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEV</ID>
+    <Name>Inuvik (Mike Zubko) Airport</Name>
+    <Location>Inuvik, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYEY</ID>
+    <Name>Amos/Magny Airport</Name>
+    <Location>Amos, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFA</ID>
+    <Name>Fort Albany Airport</Name>
+    <Location>Fort Albany, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFB</ID>
+    <Name>Iqaluit Airport</Name>
+    <Location>Iqaluit, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFC</ID>
+    <Name>Fredericton International Airport</Name>
+    <Location>Fredericton, New Brunswick</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFD</ID>
+    <Name>Brantford Airport</Name>
+    <Location>Brantford, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFE</ID>
+    <Name>Forestville Airport</Name>
+    <Location>Forestville, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFH</ID>
+    <Name>Fort Hope Airport</Name>
+    <Location>Fort Hope, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFJ</ID>
+    <Name>Rivi&#232;re Rouge</Name>
+    <Location>Mont Tremblant International Airport (Rivi&#232;re Rouge/Mont-Tremblant International Inc Airport)</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFO</ID>
+    <Name>Flin Flon Airport</Name>
+    <Location>Flin Flon, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFR</ID>
+    <Name>Fort Resolution Airport</Name>
+    <Location>Fort Resolution, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFS</ID>
+    <Name>Fort Simpson Airport</Name>
+    <Location>Fort Simpson, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYFT</ID>
+    <Name>Makkovik Airport</Name>
+    <Location>Makkovik, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGB</ID>
+    <Name>Texada/Gillies Bay Airport</Name>
+    <Location>Texada Island, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGD</ID>
+    <Name>Goderich Airport (Goderich Municipal Airport)</Name>
+    <Location>Goderich, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGE</ID>
+    <Name>Golden Airport</Name>
+    <Location>Golden, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGH</ID>
+    <Name>Fort Good Hope Airport</Name>
+    <Location>Fort Good Hope, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGK</ID>
+    <Name>Kingston/Norman Rogers Airport (Kingston Airport)</Name>
+    <Location>Kingston, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGL</ID>
+    <Name>La Grande Rivi&#232;re Airport</Name>
+    <Location>Radisson, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGM</ID>
+    <Name>Gimli Industrial Park Airport</Name>
+    <Location>Gimli, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGO</ID>
+    <Name>Gods Lake Narrows Airport</Name>
+    <Location>Gods Lake Narrows, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGP</ID>
+    <Name>Michel-Pouliot Gasp&#233; Airport</Name>
+    <Location>Gasp&#233;, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGQ</ID>
+    <Name>Geraldton (Greenstone Regional) Airport</Name>
+    <Location>Geraldton, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGR</ID>
+    <Name>&#206;les-de-la-Madeleine Airport</Name>
+    <Location>Magdalen Islands, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGT</ID>
+    <Name>Igloolik Airport</Name>
+    <Location>Igloolik, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGV</ID>
+    <Name>Havre Saint-Pierre Airport</Name>
+    <Location>Havre-Saint-Pierre, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGW</ID>
+    <Name>Kuujjuarapik Airport</Name>
+    <Location>Kuujjuarapik, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGX</ID>
+    <Name>Gillam Airport</Name>
+    <Location>Gillam, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYGZ</ID>
+    <Name>Grise Fiord Airport</Name>
+    <Location>Grise Fiord, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHA</ID>
+    <Name>Quaqtaq Airport</Name>
+    <Location>Quaqtaq, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHB</ID>
+    <Name>Hudson Bay Airport</Name>
+    <Location>Hudson Bay, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHC</ID>
+    <Name>Vancouver Harbour Water Airport (Vancouver Coal Harbour Seaplane Base)</Name>
+    <Location>Vancouver, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHD</ID>
+    <Name>Dryden Regional Airport</Name>
+    <Location>Dryden, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHE</ID>
+    <Name>Hope Aerodrome</Name>
+    <Location>Hope, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHF</ID>
+    <Name>Hearst (Ren&#233; Fontaine) Municipal Airport</Name>
+    <Location>Hearst, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHH</ID>
+    <Name>Nemiscau Airport</Name>
+    <Location>Nemaska, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHI</ID>
+    <Name>Ulukhaktok/Holman Airport</Name>
+    <Location>Ulukhaktok, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHK</ID>
+    <Name>Gjoa Haven Airport</Name>
+    <Location>Gjoa Haven, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHM</ID>
+    <Name>John C. Munro Hamilton International Airport (Hamilton/John C. Munro International Airport</Name>
+    <Location>Hamilton, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHN</ID>
+    <Name>Hornepayne Municipal Airport</Name>
+    <Location>Hornepayne, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHO</ID>
+    <Name>Hopedale Airport</Name>
+    <Location>Hopedale, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHR</ID>
+    <Name>Chevery Airport</Name>
+    <Location>Chevery, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHT</ID>
+    <Name>Haines Junction Airport</Name>
+    <Location>Haines Junction, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHU</ID>
+    <Name>Montr&#233;al/Saint-Hubert Airport</Name>
+    <Location>Longueuil, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHY</ID>
+    <Name>Hay River/Merlyn Carter Airport</Name>
+    <Location>Hay River, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYHZ</ID>
+    <Name>Halifax Stanfield International Airport</Name>
+    <Location>Halifax Regional Municipality, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYIB</ID>
+    <Name>Atikokan Municipal Airport</Name>
+    <Location>Atikokan, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYID</ID>
+    <Name>Digby/Annapolis Regional Airport</Name>
+    <Location>Digby, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYIF</ID>
+    <Name>Saint-Augustin Airport</Name>
+    <Location>Saint-Augustin, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYIK</ID>
+    <Name>Ivujivik Airport</Name>
+    <Location>Ivujivik, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYIO</ID>
+    <Name>Pond Inlet Airport</Name>
+    <Location>Pond Inlet, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYIV</ID>
+    <Name>Island Lake Airport</Name>
+    <Location>Island Lake, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYJA</ID>
+    <Name>Jasper Airport</Name>
+    <Location>Jasper, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYJF</ID>
+    <Name>Fort Liard Airport</Name>
+    <Location>Fort Liard, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYJM</ID>
+    <Name>Fort St. James (Perison) Airport</Name>
+    <Location>Fort St. James, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYJN</ID>
+    <Name>Saint-Jean Airport (Saint-Jean-sur-Richelieu Airport)</Name>
+    <Location>Saint-Jean-sur-Richelieu, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYJP</ID>
+    <Name>Fort Providence Airport</Name>
+    <Location>Fort Providence, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYJQ</ID>
+    <Name>Denny Island Aerodrome</Name>
+    <Location>Bella Bella, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYJT</ID>
+    <Name>Stephenville International Airport (Stephenville Airport)</Name>
+    <Location>Stephenville, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKA</ID>
+    <Name>Kamloops Airport</Name>
+    <Location>Kamloops, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKC</ID>
+    <Name>Collins Bay Airport</Name>
+    <Location>Collins Bay, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKD</ID>
+    <Name>Aklavik/Freddie Carmichael Airport</Name>
+    <Location>Aklavik, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKF</ID>
+    <Name>Region of Waterloo International Airport (Kitchener/Waterloo Regional Airport)</Name>
+    <Location>Regional Municipality of Waterloo, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKG</ID>
+    <Name>Kangiqsujuaq (Wakeham Bay) Airport</Name>
+    <Location>Kangiqsujuaq, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKJ</ID>
+    <Name>Key Lake Airport</Name>
+    <Location>Key Lake, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKL</ID>
+    <Name>Schefferville Airport</Name>
+    <Location>Schefferville, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKM</ID>
+    <Name>Kincardine Airport</Name>
+    <Location>Kincardine, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKO</ID>
+    <Name>Akulivik Airport</Name>
+    <Location>Akulivik, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKQ</ID>
+    <Name>Waskaganish Airport</Name>
+    <Location>Waskaganish, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKX</ID>
+    <Name>Kirkland Lake Airport</Name>
+    <Location>Kirkland Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKY</ID>
+    <Name>Kindersley Regional Airport</Name>
+    <Location>Kindersley, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYKZ</ID>
+    <Name>Toronto/Buttonville Municipal Airport (Buttonville Municipal Airport)</Name>
+    <Location>Buttonville, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLA</ID>
+    <Name>Aupaluk Airport</Name>
+    <Location>Aupaluk, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLB</ID>
+    <Name>Lac La Biche Airport</Name>
+    <Location>Lac La Biche, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLC</ID>
+    <Name>Kimmirut Airport</Name>
+    <Location>Kimmirut, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLD</ID>
+    <Name>Chapleau Airport</Name>
+    <Location>Chapleau, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLH</ID>
+    <Name>Lansdowne House Airport</Name>
+    <Location>Lansdowne House, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLI</ID>
+    <Name>Lillooet Airport</Name>
+    <Location>Lillooet, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLJ</ID>
+    <Name>Meadow Lake Airport</Name>
+    <Location>Meadow Lake, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLK</ID>
+    <Name>Lutselk'e Airport</Name>
+    <Location>Lutselk'e, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLL</ID>
+    <Name>Lloydminster Airport</Name>
+    <Location>Lloydminster, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLQ</ID>
+    <Name>La Tuque Airport</Name>
+    <Location>La Tuque, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLR</ID>
+    <Name>Leaf Rapids Airport</Name>
+    <Location>Leaf Rapids, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLS</ID>
+    <Name>Lake Simcoe Regional Airport</Name>
+    <Location>Barrie/Orillia, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLT</ID>
+    <Name>Alert Airport</Name>
+    <Location>Alert, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLU</ID>
+    <Name>Kangiqsualujjuaq (Georges River) Airport</Name>
+    <Location>Kangiqsualujjuaq, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYLW</ID>
+    <Name>Kelowna International Airport</Name>
+    <Location>Kelowna, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMA</ID>
+    <Name>Mayo Airport</Name>
+    <Location>Mayo, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYME</ID>
+    <Name>Matane Airport</Name>
+    <Location>Matane, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMG</ID>
+    <Name>Manitouwadge Airport</Name>
+    <Location>Manitouwadge, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMH</ID>
+    <Name>Mary's Harbour Airport</Name>
+    <Location>Mary's Harbour, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMJ</ID>
+    <Name>CFB Moose Jaw (Moose Jaw/Air Vice Marshal C.M. McEwen Airport)</Name>
+    <Location>Moose Jaw, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYML</ID>
+    <Name>Charlevoix Airport</Name>
+    <Location>Charlevoix, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMM</ID>
+    <Name>Fort McMurray Airport</Name>
+    <Location>Fort McMurray, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMO</ID>
+    <Name>Moosonee Airport</Name>
+    <Location>Moosonee, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMT</ID>
+    <Name>Chibougamau/Chapais Airport</Name>
+    <Location>Chibougamau, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMU</ID>
+    <Name>Umiujaq Airport</Name>
+    <Location>Umiujaq, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMW</ID>
+    <Name>Maniwaki Airport</Name>
+    <Location>Maniwaki, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYMX</ID>
+    <Name>Montr&#233;al-Mirabel International Airport (Montr&#233;al International (Mirabel) Airport)</Name>
+    <Location>Montreal, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYNA</ID>
+    <Name>Natashquan Airport</Name>
+    <Location>Natashquan, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYNC</ID>
+    <Name>Wemindji Airport</Name>
+    <Location>Wemindji, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYND</ID>
+    <Name>Gatineau-Ottawa Executive Airport (Ottawa/Gatineau Airport)</Name>
+    <Location>Gatineau, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYNE</ID>
+    <Name>Norway House Airport</Name>
+    <Location>Norway House, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYNH</ID>
+    <Name>Hudson's Hope Airport</Name>
+    <Location>Hudson's Hope, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYNJ</ID>
+    <Name>Langley Regional Airport (Langley Airport)</Name>
+    <Location>Langley, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYNL</ID>
+    <Name>Points North Landing Airport</Name>
+    <Location>Points North Landing, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYNM</ID>
+    <Name>Matagami Airport</Name>
+    <Location>Matagami, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYNN</ID>
+    <Name>Nejanilini Lake Airport</Name>
+    <Location>Nejanilini Lake, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYNR</ID>
+    <Name>Fort MacKay/Horizon Airport</Name>
+    <Location>Fort MacKay, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOA</ID>
+    <Name>Ekati Airport</Name>
+    <Location>Ekati Diamond Mine, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOC</ID>
+    <Name>Old Crow Airport</Name>
+    <Location>Old Crow, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOD</ID>
+    <Name>CFB Cold Lake (Cold Lake/Group Captain R.W. McNair Airport)</Name>
+    <Location>Cold Lake, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOH</ID>
+    <Name>Oxford House Airport</Name>
+    <Location>Oxford House, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOJ</ID>
+    <Name>High Level Airport</Name>
+    <Location>High Level, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOO</ID>
+    <Name>Oshawa Airport</Name>
+    <Location>Oshawa, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOP</ID>
+    <Name>Rainbow Lake Airport</Name>
+    <Location>Rainbow Lake, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOS</ID>
+    <Name>Owen Sound Billy Bishop Regional Airport (Billy Bishop Regional Airport)</Name>
+    <Location>Owen Sound, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOW</ID>
+    <Name>Ottawa Macdonald-Cartier International Airport (Macdonald-Cartier International Airport)</Name>
+    <Location>Ottawa, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYOY</ID>
+    <Name>Valcartier (W/C J.H.L. (Joe) Lecomte) Heliport (CFB Valcartier)</Name>
+    <Location>Valcartier, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYP2</ID>
+    <Name>Halifax (Windsor Park) Heliport</Name>
+    <Location>Halifax, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPA</ID>
+    <Name>Prince Albert (Glass Field) Airport</Name>
+    <Location>Prince Albert, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPC</ID>
+    <Name>Paulatuk (Nora Aliqatchialuk Ruben) Airport</Name>
+    <Location>Paulatuk, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPD</ID>
+    <Name>Port Hawkesbury Airport</Name>
+    <Location>Port Hawkesbury, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPE</ID>
+    <Name>Peace River Airport</Name>
+    <Location>Peace River, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPG</ID>
+    <Name>Portage la Prairie/Southport Airport</Name>
+    <Location>Portage la Prairie, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPH</ID>
+    <Name>Inukjuak Airport</Name>
+    <Location>Inukjuak, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPK</ID>
+    <Name>Pitt Meadows Airport (Pitt Meadows Regional Airport)</Name>
+    <Location>Pitt Meadows, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPL</ID>
+    <Name>Pickle Lake Airport</Name>
+    <Location>Pickle Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPM</ID>
+    <Name>Pikangikum Airport</Name>
+    <Location>Pikangikum, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPN</ID>
+    <Name>Port-Menier Airport</Name>
+    <Location>Port-Menier, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPO</ID>
+    <Name>Peawanuck Airport</Name>
+    <Location>Peawanuck, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPP</ID>
+    <Name>Parent Airport</Name>
+    <Location>Parent, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPQ</ID>
+    <Name>Peterborough Airport</Name>
+    <Location>Peterborough, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPR</ID>
+    <Name>Prince Rupert Airport</Name>
+    <Location>Prince Rupert, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPS</ID>
+    <Name>Pemberton Regional Airport</Name>
+    <Location>Pemberton, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPT</ID>
+    <Name>Pelee Island Airport</Name>
+    <Location>Pelee, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPU</ID>
+    <Name>Puntzi Mountain Airport</Name>
+    <Location>Puntzi Mountain, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPW</ID>
+    <Name>Powell River Airport</Name>
+    <Location>Powell River, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPX</ID>
+    <Name>Puvirnituq Airport</Name>
+    <Location>Puvirnituq, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPY</ID>
+    <Name>Fort Chipewyan Airport</Name>
+    <Location>Fort Chipewyan, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYPZ</ID>
+    <Name>Burns Lake Airport</Name>
+    <Location>Burns Lake, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQA</ID>
+    <Name>Muskoka Airport</Name>
+    <Location>Muskoka, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQB</ID>
+    <Name>Qu&#233;bec City Jean Lesage International Airport (Jean Lesage International Airport)</Name>
+    <Location>Quebec City, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQD</ID>
+    <Name>The Pas Airport</Name>
+    <Location>The Pas, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQF</ID>
+    <Name>Red Deer Regional Airport</Name>
+    <Location>Red Deer, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQG</ID>
+    <Name>Windsor Airport</Name>
+    <Location>Windsor, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQH</ID>
+    <Name>Watson Lake Airport</Name>
+    <Location>Watson Lake, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQI</ID>
+    <Name>Yarmouth Airport</Name>
+    <Location>Yarmouth, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQK</ID>
+    <Name>Kenora Airport</Name>
+    <Location>Kenora, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQL</ID>
+    <Name>Lethbridge County Airport (Lethbridge Airport)</Name>
+    <Location>Lethbridge, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQM</ID>
+    <Name>Greater Moncton International Airport (Moncton/Greater Moncton International Airport)</Name>
+    <Location>Moncton, New Brunswick</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQN</ID>
+    <Name>Nakina Airport</Name>
+    <Location>Nakina, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQQ</ID>
+    <Name>CFB Comox (Comox Airport)</Name>
+    <Location>Comox, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQR</ID>
+    <Name>Regina International Airport</Name>
+    <Location>Regina, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQS</ID>
+    <Name>St. Thomas Municipal Airport</Name>
+    <Location>St. Thomas, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQT</ID>
+    <Name>Thunder Bay International Airport (Thunder Bay Airport)</Name>
+    <Location>Thunder Bay, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQU</ID>
+    <Name>Grande Prairie Airport</Name>
+    <Location>Grande Prairie, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQV</ID>
+    <Name>Yorkton Municipal Airport</Name>
+    <Location>Yorkton, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQW</ID>
+    <Name>North Battleford Airport</Name>
+    <Location>North Battleford, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQX</ID>
+    <Name>Gander International Airport</Name>
+    <Location>Gander, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQY</ID>
+    <Name>Sydney/J.A. Douglas McCurdy Airport</Name>
+    <Location>Sydney, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYQZ</ID>
+    <Name>Quesnel Airport</Name>
+    <Location>Quesnel, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRA</ID>
+    <Name>Gam&#232;t&#236;/Rae Lakes Airport</Name>
+    <Location>Gam&#232;ti, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRB</ID>
+    <Name>Resolute Bay Airport</Name>
+    <Location>Resolute, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRC</ID>
+    <Name>Chicoutimi/Saint-Honore Aerodrome</Name>
+    <Location>Chicoutimi, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRI</ID>
+    <Name>Rivi&#232;re-du-Loup Airport</Name>
+    <Location>Rivi&#232;re-du-Loup, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRJ</ID>
+    <Name>Roberval Airport</Name>
+    <Location>Roberval, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRL</ID>
+    <Name>Red Lake Airport</Name>
+    <Location>Red Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRM</ID>
+    <Name>Rocky Mountain House Airport</Name>
+    <Location>Rocky Mountain House, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRO</ID>
+    <Name>Ottawa/Rockcliffe Airport (Rockcliffe Airport)</Name>
+    <Location>Ottawa, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRP</ID>
+    <Name>Ottawa/Carp Airport (Carp Airport)</Name>
+    <Location>Carp, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRQ</ID>
+    <Name>Trois-Rivi&#232;res Airport</Name>
+    <Location>Trois-Rivi&#232;res, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRS</ID>
+    <Name>Red Sucker Lake Airport</Name>
+    <Location>Red Sucker Lake, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRT</ID>
+    <Name>Rankin Inlet Airport</Name>
+    <Location>Rankin Inlet, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYRV</ID>
+    <Name>Revelstoke Airport</Name>
+    <Location>Revelstoke, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSA</ID>
+    <Name>Stratford Municipal Airport</Name>
+    <Location>Stratford, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSB</ID>
+    <Name>Sudbury Airport (Greater Sudbury Airport)</Name>
+    <Location>Greater Sudbury, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSC</ID>
+    <Name>Sherbrooke Airport</Name>
+    <Location>Sherbrooke, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSD</ID>
+    <Name>Suffield Heliport (CFB Suffield)</Name>
+    <Location>Suffield, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSE</ID>
+    <Name>Squamish Airport</Name>
+    <Location>Squamish, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSF</ID>
+    <Name>Stony Rapids Airport</Name>
+    <Location>Stony Rapids, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSG</ID>
+    <Name>Saint-Georges Aerodrome</Name>
+    <Location>Saint-Georges, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSH</ID>
+    <Name>Smiths Falls-Montague Airport (Smiths Falls-Montague (Russ Beach) Airport)</Name>
+    <Location>Smiths Falls, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSJ</ID>
+    <Name>Saint John Airport</Name>
+    <Location>Saint John, New Brunswick</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSK</ID>
+    <Name>Sanikiluaq Airport</Name>
+    <Location>Sanikiluaq, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSL</ID>
+    <Name>Saint-L&#233;onard Aerodrome</Name>
+    <Location>St. Leonard, New Brunswick</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSM</ID>
+    <Name>Fort Smith Airport</Name>
+    <Location>Fort Smith, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSN</ID>
+    <Name>St. Catharines/Niagara District Airport</Name>
+    <Location>St. Catharines, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSP</ID>
+    <Name>Marathon Aerodrome</Name>
+    <Location>Marathon, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSQ</ID>
+    <Name>Atlin Airport</Name>
+    <Location>Atlin, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYST</ID>
+    <Name>St. Theresa Point Airport</Name>
+    <Location>St. Theresa Point, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSU</ID>
+    <Name>Summerside Airport</Name>
+    <Location>Summerside, Prince Edward Island</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSW</ID>
+    <Name>Sparwood/Elk Valley Airport</Name>
+    <Location>Sparwood, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSY</ID>
+    <Name>Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport</Name>
+    <Location>Sachs Harbour, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYSZ</ID>
+    <Name>Sainte-Anne-des-Monts Aerodrome</Name>
+    <Location>Sainte-Anne-des-Monts, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTA</ID>
+    <Name>Pembroke Airport</Name>
+    <Location>Pembroke, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTB</ID>
+    <Name>Tillsonburg Airport</Name>
+    <Location>Tillsonburg, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTE</ID>
+    <Name>Cape Dorset Airport</Name>
+    <Location>Cape Dorset, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTF</ID>
+    <Name>Alma Airport</Name>
+    <Location>Alma, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTH</ID>
+    <Name>Thompson Airport</Name>
+    <Location>Thompson, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTL</ID>
+    <Name>Big Trout Lake Airport</Name>
+    <Location>Big Trout Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTN</ID>
+    <Name>Trenton Aerodrome</Name>
+    <Location>Trenton, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTQ</ID>
+    <Name>Tasiujaq Airport</Name>
+    <Location>Tasiujaq, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTR</ID>
+    <Name>CFB Trenton (Trenton Airport)</Name>
+    <Location>Trenton, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTS</ID>
+    <Name>Timmins/Victor M. Power Airport</Name>
+    <Location>Timmins, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYTZ</ID>
+    <Name>Billy Bishop Toronto City Airport (Toronto/Billy Bishop Toronto City Airport)</Name>
+    <Location>Toronto, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYUB</ID>
+    <Name>Tuktoyaktuk/James Gruben Airport</Name>
+    <Location>Tuktoyaktuk, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYUL</ID>
+    <Name>Montr&#233;al-Pierre Elliott Trudeau International Airport</Name>
+    <Location>Montreal, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYUT</ID>
+    <Name>Repulse Bay Airport</Name>
+    <Location>Repulse Bay, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYUX</ID>
+    <Name>Hall Beach Airport</Name>
+    <Location>Hall Beach, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYUY</ID>
+    <Name>Rouyn-Noranda Airport</Name>
+    <Location>Rouyn-Noranda, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVB</ID>
+    <Name>Bonaventure Airport</Name>
+    <Location>Bonaventure, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVC</ID>
+    <Name>La Ronge (Barber Field) Airport</Name>
+    <Location>La Ronge, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVD</ID>
+    <Name>Virden/R.J. (Bob) Andrew Field Regional Aerodrome</Name>
+    <Location>Virden, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVG</ID>
+    <Name>Vermilion Airport</Name>
+    <Location>Vermilion, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVK</ID>
+    <Name>Vernon Regional Airport</Name>
+    <Location>Vernon, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVM</ID>
+    <Name>Qikiqtarjuaq Airport</Name>
+    <Location>Qikiqtarjuaq, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVO</ID>
+    <Name>Val-d'Or Airport</Name>
+    <Location>Val-d'Or, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVP</ID>
+    <Name>Kuujjuaq Airport</Name>
+    <Location>Kuujjuaq, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVQ</ID>
+    <Name>Norman Wells Airport</Name>
+    <Location>Norman Wells, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVR</ID>
+    <Name>Vancouver International Airport</Name>
+    <Location>Vancouver, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVT</ID>
+    <Name>Buffalo Narrows Airport</Name>
+    <Location>Buffalo Narrows, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVV</ID>
+    <Name>Wiarton Airport</Name>
+    <Location>Wiarton, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYVZ</ID>
+    <Name>Deer Lake Airport</Name>
+    <Location>Deer Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWA</ID>
+    <Name>Petawawa Airport</Name>
+    <Location>Petawawa, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWE</ID>
+    <Name>Wekwe&#232;t&#236; Airport</Name>
+    <Location>Wekweeti, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWG</ID>
+    <Name>Winnipeg James Armstrong Richardson International Airport (Winnipeg International Airport)</Name>
+    <Location>Winnipeg, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWH</ID>
+    <Name>Victoria Inner Harbour Airport (Victoria Harbour Water Airport)</Name>
+    <Location>Victoria, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWJ</ID>
+    <Name>D&#233;line Airport</Name>
+    <Location>Deline, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWK</ID>
+    <Name>Wabush Airport</Name>
+    <Location>Wabush, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWL</ID>
+    <Name>Williams Lake Airport (Williams Lake Regional Airport)</Name>
+    <Location>Williams Lake, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWM</ID>
+    <Name>Athabasca Airport</Name>
+    <Location>Athabasca, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWP</ID>
+    <Name>Webequie Airport</Name>
+    <Location>Webequie, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWV</ID>
+    <Name>Wainwright Aerodrome</Name>
+    <Location>Wainwright, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYWY</ID>
+    <Name>Wrigley Airport</Name>
+    <Location>Wrigley, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXC</ID>
+    <Name>Cranbrook/Canadian Rockies International Airport</Name>
+    <Location>Cranbrook, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXE</ID>
+    <Name>Saskatoon John G. Diefenbaker International Airport (Saskatoon International Airport)</Name>
+    <Location>Saskatoon, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXH</ID>
+    <Name>Medicine Hat Airport</Name>
+    <Location>Medicine Hat, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXJ</ID>
+    <Name>Fort St. John Airport (North Peace Airport)</Name>
+    <Location>Fort St. John, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXK</ID>
+    <Name>Rimouski Airport</Name>
+    <Location>Rimouski, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXL</ID>
+    <Name>Sioux Lookout Airport</Name>
+    <Location>Sioux Lookout, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXN</ID>
+    <Name>Whale Cove Airport</Name>
+    <Location>Whale Cove, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXP</ID>
+    <Name>Pangnirtung Airport</Name>
+    <Location>Pangnirtung, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXQ</ID>
+    <Name>Beaver Creek Airport</Name>
+    <Location>Beaver Creek, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXR</ID>
+    <Name>Earlton (Timiskaming Regional) Airport</Name>
+    <Location>Earlton, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXS</ID>
+    <Name>Prince George Airport</Name>
+    <Location>Prince George, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXT</ID>
+    <Name>Northwest Regional Airport</Name>
+    <Location>Terrace and Kitimat, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXU</ID>
+    <Name>London International Airport (London Airport)</Name>
+    <Location>London, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXX</ID>
+    <Name>Abbotsford International Airport</Name>
+    <Location>Abbotsford, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXY</ID>
+    <Name>Erik Nielsen Whitehorse International Airport</Name>
+    <Location>Whitehorse, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYXZ</ID>
+    <Name>Wawa Airport</Name>
+    <Location>Wawa, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYB</ID>
+    <Name>North Bay/Jack Garland Airport (North Bay Airport)</Name>
+    <Location>North Bay, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYC</ID>
+    <Name>Calgary International Airport</Name>
+    <Location>Calgary, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYD</ID>
+    <Name>Smithers Airport</Name>
+    <Location>Smithers, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYE</ID>
+    <Name>Fort Nelson Airport</Name>
+    <Location>Fort Nelson, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYF</ID>
+    <Name>Penticton Regional Airport (Penticton Airport, Penticton Airport (South Okanagan Regional Airport))</Name>
+    <Location>Penticton, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYG</ID>
+    <Name>Charlottetown Airport</Name>
+    <Location>Charlottetown, Prince Edward Island</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYH</ID>
+    <Name>Taloyoak Airport</Name>
+    <Location>Taloyoak, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYJ</ID>
+    <Name>Victoria International Airport</Name>
+    <Location>Victoria, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYL</ID>
+    <Name>Lynn Lake Airport</Name>
+    <Location>Lynn Lake, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYM</ID>
+    <Name>Cowley Airport</Name>
+    <Location>Cowley, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYN</ID>
+    <Name>Swift Current Airport</Name>
+    <Location>Swift Current, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYO</ID>
+    <Name>Wynyard/W. B. Needham Field Aerodrome</Name>
+    <Location>Wynyard, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYQ</ID>
+    <Name>Churchill Airport</Name>
+    <Location>Churchill, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYR</ID>
+    <Name>CFB Goose Bay (Goose Bay Airport)</Name>
+    <Location>Happy Valley</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYT</ID>
+    <Name>St. John's International Airport</Name>
+    <Location>St. John's, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYU</ID>
+    <Name>Kapuskasing Airport</Name>
+    <Location>Kapuskasing, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYW</ID>
+    <Name>Armstrong Airport</Name>
+    <Location>Armstrong, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYY</ID>
+    <Name>Mont-Joli Airport</Name>
+    <Location>Mont-Joli, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYYZ</ID>
+    <Name>Toronto Pearson International Airport (Toronto/Lester B. Pearson International Airport, Pearson Airport)</Name>
+    <Location>Toronto, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZD</ID>
+    <Name>Toronto/Downsview Airport (Downsview Airport)</Name>
+    <Location>Toronto, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZE</ID>
+    <Name>Gore Bay-Manitoulin Airport</Name>
+    <Location>Gore Bay, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZF</ID>
+    <Name>Yellowknife Airport</Name>
+    <Location>Yellowknife, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZG</ID>
+    <Name>Salluit Airport</Name>
+    <Location>Salluit, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZH</ID>
+    <Name>Slave Lake Airport</Name>
+    <Location>Slave Lake, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZP</ID>
+    <Name>Sandspit Airport</Name>
+    <Location>Sandspit, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZR</ID>
+    <Name>Sarnia Chris Hadfield Airport</Name>
+    <Location>Sarnia, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZS</ID>
+    <Name>Coral Harbour Airport</Name>
+    <Location>Coral Harbour, Nunavut</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZT</ID>
+    <Name>Port Hardy Airport</Name>
+    <Location>Port Hardy, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZU</ID>
+    <Name>Whitecourt Airport</Name>
+    <Location>Whitecourt, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZV</ID>
+    <Name>Sept-&#206;les Airport</Name>
+    <Location>Sept-&#206;les, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZW</ID>
+    <Name>Teslin Airport</Name>
+    <Location>Teslin, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZX</ID>
+    <Name>CFB Greenwood (Greenwood Airport)</Name>
+    <Location>Greenwood, Nova Scotia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CYZY</ID>
+    <Name>Mackenzie Airport</Name>
+    <Location>Mackenzie, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZAC</ID>
+    <Name>York Landing Airport</Name>
+    <Location>York Landing, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZAM</ID>
+    <Name>Salmon Arm Airport</Name>
+    <Location>Salmon Arm, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZBA</ID>
+    <Name>Burlington Executive Aerodrome</Name>
+    <Location>Burlington, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZBB</ID>
+    <Name>Boundary Bay Airport</Name>
+    <Location>Delta, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZBD</ID>
+    <Name>Ilford Airport</Name>
+    <Location>Ilford, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZBF</ID>
+    <Name>Bathurst Airport</Name>
+    <Location>Bathurst, New Brunswick</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZBM</ID>
+    <Name>Bromont (Roland D&#233;sourdy) Airport</Name>
+    <Location>Bromont, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZEE</ID>
+    <Name>Kelsey Airport</Name>
+    <Location>Kelesy, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZEL</ID>
+    <Name>Bella Bella (Campbell Island) Airport</Name>
+    <Location>Bella Bella, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZEM</ID>
+    <Name>Eastmain River Airport</Name>
+    <Location>Eastmain, Quebec</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZFA</ID>
+    <Name>Faro Airport</Name>
+    <Location>Faro, Yukon</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZFD</ID>
+    <Name>Fond-du-Lac Airport</Name>
+    <Location>Fond-du-Lac, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZFG</ID>
+    <Name>Pukatawagan Airport</Name>
+    <Location>Pukatawagan, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZFM</ID>
+    <Name>Fort McPherson Airport</Name>
+    <Location>Fort McPherson, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZFN</ID>
+    <Name>Tulita Airport</Name>
+    <Location>Tulita, Northwest Territories</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZGF</ID>
+    <Name>Grand Forks Airport</Name>
+    <Location>Grand Forks, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZGI</ID>
+    <Name>Gods River Airport</Name>
+    <Location>Gods River, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZGR</ID>
+    <Name>Little Grand Rapids Airport</Name>
+    <Location>Little Grand Rapids, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZHP</ID>
+    <Name>High Prairie Airport</Name>
+    <Location>High Prairie, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZJG</ID>
+    <Name>Jenpeg Airport</Name>
+    <Location>Jenpeg, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZJN</ID>
+    <Name>Swan River Airport</Name>
+    <Location>Swan River, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZKE</ID>
+    <Name>Kashechewan Airport</Name>
+    <Location>Kashechewan First Nation, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZLQ</ID>
+    <Name>Thicket Portage Airport</Name>
+    <Location>Thicket Portage, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZMD</ID>
+    <Name>Muskrat Dam Airport</Name>
+    <Location>Muskrat Dam, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZML</ID>
+    <Name>South Cariboo Regional Airport (108 Mile Ranch Airport)</Name>
+    <Location>South Cariboo, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZMN</ID>
+    <Name>Pikwitonei Airport</Name>
+    <Location>Pikwitonei, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZMT</ID>
+    <Name>Masset Airport</Name>
+    <Location>Masset, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZNG</ID>
+    <Name>Poplar River Airport</Name>
+    <Location>Poplar River, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZNL</ID>
+    <Name>Nelson Airport (British Columbia)</Name>
+    <Location>Nelson, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZPB</ID>
+    <Name>Sachigo Lake Airport</Name>
+    <Location>Sachigo Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZPC</ID>
+    <Name>Pincher Creek Airport</Name>
+    <Location>Pincher Creek, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZPO</ID>
+    <Name>Pinehouse Lake Airport</Name>
+    <Location>Pinehouse, Saskatchewan</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZRJ</ID>
+    <Name>Round Lake (Weagamow Lake) Airport</Name>
+    <Location>Round Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZSJ</ID>
+    <Name>Sandy Lake Airport</Name>
+    <Location>Sandy Lake, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZSN</ID>
+    <Name>South Indian Lake Airport</Name>
+    <Location>South Indian Lake, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZST</ID>
+    <Name>Stewart Aerodrome</Name>
+    <Location>Stewart, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZSW</ID>
+    <Name>Prince Rupert/Seal Cove Water Airport</Name>
+    <Location>Prince Rupert, British Columbia</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZTA</ID>
+    <Name>Bloodvein River Airport</Name>
+    <Location>Bloodvein First Nation, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZTM</ID>
+    <Name>Shamattawa Airport</Name>
+    <Location>Shamattawa, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZUC</ID>
+    <Name>Ignace Municipal Airport</Name>
+    <Location>Ignace, Ontario</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZUM</ID>
+    <Name>Churchill Falls Airport</Name>
+    <Location>Churchill Falls, Newfoundland and Labrador</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZVL</ID>
+    <Name>Edmonton/Villeneuve Airport (Villeneuve Airport)</Name>
+    <Location>Villeneuve, Alberta</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZWH</ID>
+    <Name>Lac Brochet Airport</Name>
+    <Location>Lac Brochet, Manitoba</Location>
+  </Aerodrome>
+  <Aerodrome>
+    <ID>CZWL</ID>
+    <Name>Wollaston Lake Airport</Name>
+    <Location>Wollaston Lake, Saskatchewan</Location>
+  </Aerodrome>
+</Aerodromes>
