@@ -100,17 +100,67 @@ class WeatherCollector:
 		return self.parsed_data
 
 	# Returns the METAR data for the aerodrome
-	def read_metar(self):
+	def get_metar(self):
 		return self.metar
 
 	# Returns the TAF data for the aerodrome
-	def read_taf(self):
+	def get_taf(self):
 		return self.taf
 
-# TODO: Rebuild the file creation and writing components of the parser
+# This class writes the METAR and TAF to respective time-stamped files, and
+# does so in a clean format
+class WeatherWriter:
+
+	# The root_path input is the root directory that the data will be
+	# written to. The station argument refers to the aerodrome code, e.g. "CYOW"
+	# for Ottawa. The collector argument corresponds to the WeatherCollector
+	# instance for the given aerodrome. All of the directory and filename setup
+	# is done in this constructor; all other functions handle and write to these
+	# directories/filenames
+	def __init__(self, station, root_path, collector):
+
+		self.station = station
+		self.root_path = root_path
+		self.collector = collector
+		self.date = None
+
+		# Create separate subdirectories for the station's METAR and TAF
+		self.metar_dir = ("{}/{}".format(self.station, "METAR"))
+		self.taf_dir = ("{}/{}".format(self.station, "TAF"))
+
+		# Create a hyphen-delimited timestamp to concatenate with the aerodrome
+		# ID to make the filename for the data. The whitespace is replaced with
+		# an underscore to make sure the filenames will play nice with Unix and
+		# Linux systems
+		date = str(datetime.datetime.utcnow().strftime("%Y-%m-%d %H-%M-%S"))
+
+		self.date = date.replace(' ', '_')
+
+		# Create a string to use for each text file's name
+		self.metar_file = ("{}_{}_{}".format(self.station, "METAR", self.date))
+		self.taf_file = ("{}_{}_{}".format(self.station, "TAF", self.date))
+
+		# Combine the parts of the filename. Might be overkill
+		# TODO: Determine if there is a simpler way to do this
+		self.full_metar_path = ("{}/{}/{}".format(self.root_path, self.metar_dir, self.metar_file))
+		self.full_taf_path = ("{}/{}/{}".format(self.root_path, self.taf_dir, self.taf_file))
+
+	def format_metar(self):
+		pass
+
+	def format_taf(self):
+		pass
+
+	def write_metar(self):
+		pass
+
+	def write_taf(self):
 
 
-# The eventual parser class to complement the collector. Should be a parent
-# class to separate METAR and TAF parser classes
-class WeatherParser:
+
+
+# The analysis class. Reads from the files for a specific aerodrome and does
+# various statistical analyses depending on inputs
+
+class WeatherAnalyzer:
 	pass
