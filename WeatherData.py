@@ -113,10 +113,9 @@ class WeatherWriter:
 
 	# The root_path input is the root directory that the data will be
 	# written to. The station argument refers to the aerodrome code, e.g. "CYOW"
-	# for Ottawa. The collector argument corresponds to the WeatherCollector
-	# instance for the given aerodrome. All of the directory and filename setup
-	# is done in this constructor; all other functions handle and write to these
-	# directories/filenames
+	# for Ottawa. All of the directory and filename setup is done in this
+	# constructor; all other functions handle and write to these directories
+	# and/or filenames
 	def __init__(self, station, root_path, collector):
 
 		self.station = station
@@ -145,19 +144,15 @@ class WeatherWriter:
 		self.full_metar_path = ("{}/{}/{}".format(self.root_path, self.metar_dir, self.metar_file))
 		self.full_taf_path = ("{}/{}/{}".format(self.root_path, self.taf_dir, self.taf_file))
 
-	def format_metar(self):
-		pass
+	def write_metar(self, metar):
+		with open(self.full_metar_path, 'w') as f:
+			f.write(metar)
+		f.close()
 
-	def format_taf(self):
-		pass
-
-	def write_metar(self):
-		pass
-
-	def write_taf(self):
-
-
-
+	def write_taf(self, metar):
+		with open(self.full_taf_path, 'w') as f:
+			f.write(metar)
+		f.close()
 
 # The analysis class. Reads from the files for a specific aerodrome and does
 # various statistical analyses depending on inputs
