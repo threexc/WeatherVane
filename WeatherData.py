@@ -18,6 +18,8 @@ class WeatherCollector:
 		# each aerodrome
 		self.url = "https://flightplanning.navcanada.ca/cgi-bin/Fore-obs/metar.cgi"
 
+		self.station = station
+
 		# Default headers to mimic for scraping the page
 		self.headers = {
         "user-agent": "Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0"
@@ -70,17 +72,14 @@ class WeatherCollector:
 		# Ignore the text before the first occurrence of the substring "TAF"
 		split_data = tidied.split('TAF ', 1)[1]
 
-		# Cut out leading text again, this time up to the first occurrence of
-		# the substring "METAR". This may be a redundant variable, but it is
-		# left for now
-		metar_taf_data = split_data.split('METAR', 1)[1]
-
 		# Pluck the TAF from the data and remove the trailing "="
-		taf = metar_taf_data.split('TAF ', 1)[1]
+		#taf = metar_taf_data.split('TAF ', 1)[1]
+		taf = split_data.split('TAF ', 1)[1]
 		fixed_taf = taf[:taf.rfind('=')]
 
 		# Pluck the METAR from the data and remove the trailing "="
-		metar = metar_taf_data.split('TAF ', 1)[0]
+		#metar = metar_taf_data.split('TAF ', 1)[0]
+		metar = split_data.split('TAF ', 1)[0]
 		fixed_metar = metar[:metar.rfind('=')]
 
 		# Assign the collected strings to the appropriate class variables
@@ -106,6 +105,9 @@ class WeatherCollector:
 	# Returns the TAF data for the aerodrome
 	def get_taf(self):
 		return self.taf
+
+	def get_dromeID(self):
+		return self.station
 
 # This class writes the METAR and TAF to respective time-stamped files, and
 # does so in a clean format
