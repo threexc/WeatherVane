@@ -145,13 +145,17 @@ class WeatherWriter:
 		self.full_taf_path = ("{}/{}/{}".format(self.root_path, self.taf_dir, self.taf_file))
 
 	def write_metar(self, metar):
+		if not os.path.exists(self.root_path + '/' + self.metar_dir):
+			os.makedirs(self.root_path + '/' + self.metar_dir)
 		with open(self.full_metar_path, 'w') as f:
 			f.write(metar)
 		f.close()
 
-	def write_taf(self, metar):
+	def write_taf(self, taf):
+		if not os.path.exists(self.root_path + '/' + self.taf_dir):
+			os.makedirs(self.root_path + '/' + self.taf_dir)
 		with open(self.full_taf_path, 'w') as f:
-			f.write(metar)
+			f.write(taf)
 		f.close()
 
 # The analysis class. Reads from the files for a specific aerodrome and does
