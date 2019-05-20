@@ -55,11 +55,23 @@ class WeatherCollector:
 	# equal to their corresponding strings
 
 	# TODO: Write extensive error handling into this function
-	def gather_data(self):
+	def gather_weather_data(self):
 
+		response = self.send_query()
+
+		self.parsed_data = self.clean_query(response)
+
+		self.taf = self.get_taf(self.parsed_data)
+		self.metar = self.get_metar(self.parsed_data)
+
+		return
+
+	def send_query(self):
 		# Send the GET request with the base URL and parameters
 		response = requests.get(self.url, params=self.params, verify=False, headers=self.headers)
+		return response
 
+	def clean_query(self, response):
 		# Strip out all of the HTML formatting
 		stripped = re.sub("<.*?>", "", response.text)
 
@@ -72,39 +84,21 @@ class WeatherCollector:
 		# Ignore the text before the first occurrence of the substring "TAF"
 		split_data = tidied.split('TAF ', 1)[1]
 
+		return split_data
+
+	def get_taf(self, cleaned_query):
 		# Pluck the TAF from the data and remove the trailing "="
-		#taf = metar_taf_data.split('TAF ', 1)[1]
-		taf = split_data.split('TAF ', 1)[1]
+		taf = cleaned_query.split('TAF ', 1)[1]
 		fixed_taf = taf[:taf.rfind('=')]
 
+		return fixed_taf
+
+	def get_metar(self, cleaned_query):
 		# Pluck the METAR from the data and remove the trailing "="
-		#metar = metar_taf_data.split('TAF ', 1)[0]
-		metar = split_data.split('TAF ', 1)[0]
+		metar = cleaned_query.split('TAF ', 1)[0]
 		fixed_metar = metar[:metar.rfind('=')]
 
-		# Assign the collected strings to the appropriate class variables
-		self.parsed_data = split_data
-		self.metar = fixed_metar
-		self.taf = fixed_taf
-
-		return
-
-	# Placeholder, may not be necessary
-	def set_url(self, new_url):
-		self.url = new_url
-
-	# returns the whole string consisting of METAR and TAF data without having
-	# separated them, plus the aerodrome header
-	def get_weather(self):
-		return self.parsed_data
-
-	# Returns the METAR data for the aerodrome
-	def get_metar(self):
-		return self.metar
-
-	# Returns the TAF data for the aerodrome
-	def get_taf(self):
-		return self.taf
+		return fixed_metar
 
 	def get_dromeID(self):
 		return self.station
