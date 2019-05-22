@@ -61,8 +61,8 @@ class WeatherCollector:
 
 		self.parsed_data = self.clean_query(response)
 
-		self.taf = self.get_taf(self.parsed_data)
-		self.metar = self.get_metar(self.parsed_data)
+		self.taf = self.format_taf(self.parsed_data)
+		self.metar = self.format_metar(self.parsed_data)
 
 		return
 
@@ -86,14 +86,14 @@ class WeatherCollector:
 
 		return split_data
 
-	def get_taf(self, cleaned_query):
+	def format_taf(self, cleaned_query):
 		# Pluck the TAF from the data and remove the trailing "="
 		taf = cleaned_query.split('TAF ', 1)[1]
 		fixed_taf = taf[:taf.rfind('=')]
 
 		return fixed_taf
 
-	def get_metar(self, cleaned_query):
+	def format_metar(self, cleaned_query):
 		# Pluck the METAR from the data and remove the trailing "="
 		metar = cleaned_query.split('TAF ', 1)[0]
 		fixed_metar = metar[:metar.rfind('=')]

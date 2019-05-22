@@ -10,12 +10,15 @@ import errno
 import xml.etree.ElementTree as ET
 from WeatherData import *
 
+def get_aerodrome(dromeID):
+    vane = WeatherCollector(dromeID)
+    vane.gather_weather_data()
+    print(vane.get_dromeID())
 
-# Iteratively collect each aerodrome acronym from Aerodromes.xml, then generate
-# an appropriate filename for the data collected for said aerodrome based on
-# the date and time that the data is obtained. Next, create a subfolder inside
-# the parent path metardata. Finally, collect the intended data with getMETAR(),
-# and put the data into the new file created.
+    logger = WeatherWriter(dromeID, "../weather", vane)
+    logger.write_metar(vane.metar)
+    logger.write_taf(vane.taf)
+
 def gather_and_write(dromes_list="Aerodromes.xml"):
 
 	# Use xml.etree to parse the XML file the aerodrome data is kept in
@@ -28,13 +31,7 @@ def gather_and_write(dromes_list="Aerodromes.xml"):
     for child in root:
 	# Get the aerodrome's abbreviation
         dromeID = child[0].text
-        weather_collector = WeatherCollector(dromeID)
-        weather_collector.gather_weather_data()
-        print(weather_collector.get_dromeID())
-
-        weather_writer = WeatherWriter(dromeID, "../weather", weather_collector)
-        weather_writer.write_metar(weather_collector.metar)
-        weather_writer.write_taf(weather_collector.taf)
+        get_aerodrome(dromeID)
 
 if __name__ == "__main__":
     gather_and_write()
