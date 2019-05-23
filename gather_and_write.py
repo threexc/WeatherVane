@@ -8,7 +8,7 @@ import datetime
 import os
 import errno
 import xml.etree.ElementTree as ET
-from WeatherData import *
+from weathervane import *
 
 def get_aerodrome(dromeID):
     vane = WeatherCollector(dromeID)
