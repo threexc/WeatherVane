@@ -6,6 +6,7 @@ matrix:
       sudo: true
 before_script:
   - pip3 install vcrpy
+  - pip3 install requests
   - cd tests
 script:
   - python3 vcr_ottawa.py
