@@ -5,6 +5,7 @@ matrix:
       dist: xenial
       sudo: true
 before_script:
+  - pip3 install vcr
   - cd tests
 script:
   - python3 vcr_ottawa.py
