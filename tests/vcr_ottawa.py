@@ -1,6 +1,7 @@
 import unittest
 import vcr
 import sys
+sys.path.append("../")
 from vane import *
 
 
