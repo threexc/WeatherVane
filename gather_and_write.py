@@ -15,7 +15,7 @@ def get_aerodrome(dromeID):
     vane.gather_weather_data()
     print(vane.get_dromeID())
 
-    logger = weathervane.WeatherWriter(dromeID, "../weather", vane)
+    logger = weathervane.WeatherWriter(dromeID, "weather", vane)
     logger.write_metar(vane.metar)
     logger.write_taf(vane.taf)
 
