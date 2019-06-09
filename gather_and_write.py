@@ -20,9 +20,9 @@ def get_aerodrome(dromeID):
     logger.write_taf(vane.taf)
 
 def gather_and_write(dromes_list="Aerodromes.xml"):
-
+    directory = os.path.dirname(os.path.realpath(__file__))
 	# Use xml.etree to parse the XML file the aerodrome data is kept in
-    doc = ET.parse(dromes_list)
+    doc = ET.parse(directory + "/" + dromes_list)
 
 	# Identify the root level of the XML tree
     root = doc.getroot()
