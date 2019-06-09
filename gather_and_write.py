@@ -8,14 +8,14 @@ import datetime
 import os
 import errno
 import xml.etree.ElementTree as ET
-from weathervane import *
+from vane import weathervane
 
 def get_aerodrome(dromeID):
-    vane = WeatherCollector(dromeID)
+    vane = weathervane.WeatherCollector(dromeID)
     vane.gather_weather_data()
     print(vane.get_dromeID())
 
-    logger = WeatherWriter(dromeID, "../weather", vane)
+    logger = weathervane.WeatherWriter(dromeID, "../weather", vane)
     logger.write_metar(vane.metar)
     logger.write_taf(vane.taf)
 
