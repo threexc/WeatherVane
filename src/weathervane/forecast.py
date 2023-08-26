@@ -1,13 +1,10 @@
-# importing the requests library
-import re
 import requests
 from bs4 import BeautifulSoup
 
-# api-endpoint
+# NAV CANADA api-endpoint
 URL = "https://flightplanning.navcanada.ca/cgi-bin/Fore-obs/metar.cgi"
 
 def forecast(aerodrome, filename=None):
-    # defining a params dict for the parameters to be sent to the API
     PARAMS = {
         'NoSession': "",
         'Stations': aerodrome,
@@ -18,11 +15,8 @@ def forecast(aerodrome, filename=None):
     }
 
     if filename is None:
-        # sending get request and return the response as response object
         response = requests.get(url=URL, params=PARAMS)
 
-        # parse the returned html, then combine the list into a single
-        # block of text
         soup = BeautifulSoup(response.content, 'html.parser')
 
         for data in soup(['style', 'script']):
@@ -34,11 +28,7 @@ def forecast(aerodrome, filename=None):
         content = content[content.find("METAR"):].split("Your", 1)[0]
 
     else:
-        # get the data from a file instead
         with open(filename, 'r') as f:
             content = f.read()
 
     return content
-
-if __name__ == "__main__":
-    print(forecast("CYOW"))
